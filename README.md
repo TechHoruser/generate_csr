@@ -1,0 +1,1 @@
+Script para generacion pareja de certificados (CER y CSR)
